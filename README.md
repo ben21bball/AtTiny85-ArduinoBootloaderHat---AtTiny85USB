@@ -3,4 +3,4 @@ This repository contains a project for an Arduino hat PCB for downloading a boot
 
 This is heavily inspired by the following links: https://circuitdigest.com/microcontroller-projects/attiny85-ic-programming-through-usb-using-digispark-bootloader https://circuitdiagrams.in/program-attiny85-microcontroller-using-usb/ 
 
-Credit to the original tinkerers for coming up with these solutions or modifying them. I took issue with a diode orientation in both of these links, as well as wanting to make a compact, affordable single-sided PCB. 
+Credit to the original tinkerers for coming up with these solutions or modifying them. I took issue with a diode orientation in both of these links, as well as wanting to make a compact, affordable single-sided PCB. The circuit diagram for the USB device and the PCB layouts were designed in KiCAD. I will be adding a 3D printed enclosure for the USB device and the files will be added eventually. 
